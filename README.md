@@ -13,7 +13,7 @@
 ### 🛠️ ארגז הכלים שלי (Tech Stack)
 * **Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS
 * **Backend & Database:** Node.js, Supabase (Cloud & Self-Hosted), PostgreSQL
-* **Tools & Workflow:** Cursor AI Development, Git & GitHub, VPS Architecture
+* **Tools & Workflow:** Development, Git & GitHub, VPS Architecture
 
 ---
 
